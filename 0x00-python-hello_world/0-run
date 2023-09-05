@@ -9,4 +9,4 @@ echo "ERROR: The specified python file '$PYFILE' does not exist."
 exit 1
 fi
 
-python "$PYFILE"
+python3 "$PYFILE"
